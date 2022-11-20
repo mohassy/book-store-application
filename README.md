@@ -1,6 +1,6 @@
 # Book-Store-Application
 
-This project is a Book Store application made in Java and JavaFX 
+This project is a Book Store application made in Java with JavaFX to make the GUI 
 
 There are two types of users that can log into this application: the Book-Store owner(with "admin" as both the Username and Password) and customers who must be registed by the owners. 
 
