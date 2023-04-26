@@ -1,4 +1,4 @@
-# Book-Store-Application
+# Book-Application
 
 This project is a Book Store application made in Java with JavaFX to make the GUI. 
 
